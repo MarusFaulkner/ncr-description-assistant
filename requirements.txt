@@ -1,0 +1,4 @@
+gradio==6.32.0
+# Optional: zero-shot category model (large download, CPU is fine)
+# transformers>=4.40
+# torch

@@ -1,0 +1,13 @@
+description,category,quality,note
+"Oil film on top cover around pressure gauge fitting, 30 mm radius",Leak,good,"Held out: never used for tuning"
+"gauge leaking somewhere",Leak,poor,"Held out"
+"Core ground lead reads 2 ohm to tank, spec open",Electrical,good,"Held out"
+"Tap changer handle rotates past position 5 stop, qty 1",Dimensional,good,"Held out"
+"Primer showing through topcoat on radiator #2, 3 places",Surface / Coating,good,"Held out"
+"Spatter on gasket seating face, front flange, approx 10 spots",Weld,good,"Held out"
+"nuts are bad",Fastener / Torque,poor,"Held out"
+"Lock washer missing on terminal H3 stud",Missing / Wrong Part,good,"Held out"
+"Forklift tine mark on tank base, gouge 3 mm deep x 60 mm",Handling / Shipping Damage,good,"Held out"
+"Packing list item 22 not on any pallet, qty 2 short",Missing / Wrong Part,good,"Held out"
+"Water standing in crate bottom under pallet #3",Contamination,good,"Held out"
+"probably shipped wrong drawing revision",Labeling / Documentation,poor,"Held out"
